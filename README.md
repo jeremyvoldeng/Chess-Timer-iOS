@@ -29,7 +29,7 @@ Designed from the ground up, our timer will blow you brains it's so good.
  ## You're Part of the Club Now.
  
  Currently we are developing exclusively with Apple devices only, so don't feel bad if you start feeling better than everyone else 
- when you starting using our app. Because you are. But don't come fucking us up with your iPhone 3's. Get yourself something from this decade if you wanna join this club.
+ when you start using our app. Because you are. But don't come fucking us up with your iPhone 3's. Get yourself something from this decade if you wanna join this club.
  
  ## Suiting Your Needs.
  
