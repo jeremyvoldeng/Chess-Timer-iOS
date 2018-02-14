@@ -1,5 +1,5 @@
 # Chess-Timer-iOS
-## A Chess Timing App For the Modern Era
+## A Chess Timing App For the Modern Era.
 
 Here at ChessBoys Inc, we pride ourselves on ingenuity and integrity. That is why we have designed a intuitive, easy-to-use 
 chess timing app for the next generation.
@@ -20,6 +20,22 @@ fully interchangeable timer settings.
 ## A New Kind of Timer.
 
 With advancements in timers seemingly coming to a halt in the 19th century, we researched intensively to redefine what a timer truly is.
-Designed from the ground up, our timer will blow you brains is so good. Literally head melting.
+Designed from the ground up, our timer will blow you brains it's so good.
 
 ![MindBlownGif](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+
+ Literally head melting.
+ 
+ ## You're Part of the Club Now.
+ 
+ Currently we are developing exclusively with Apple devices only, so don't feel bad if you start feeling better than everyone else 
+ when you starting using our app. Because you are. But don't come fucking us up with your iPhone 3's. Get yourself something from this decade if you wanna join this club.
+ 
+ ## Suiting Your Needs.
+ 
+ Currently the ChessBoys Chess Timer app is starting at $999'999.99. In app purchases required every week.
+ 
+ 
+ Copyright ChessBoys Inc.
+ 
+ 
