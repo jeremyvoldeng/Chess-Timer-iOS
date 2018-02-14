@@ -17,4 +17,9 @@ and a connection will immediately be established between the two devices.
 A big part of our app is the endless customization available for games. Pick from different game modes, dynamic board setups, and 
 fully interchangeable timer settings. 
 
+## A New Kind of Timer.
 
+With advancements in timers seemingly coming to a halt in the 19th century, we researched intensively to redefine what a timer truly is.
+Designed from the ground up, our timer will blow you brains is so good. Literally head melting.
+
+![Alt Text](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
