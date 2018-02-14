@@ -22,4 +22,4 @@ fully interchangeable timer settings.
 With advancements in timers seemingly coming to a halt in the 19th century, we researched intensively to redefine what a timer truly is.
 Designed from the ground up, our timer will blow you brains is so good. Literally head melting.
 
-![Alt Text](https://giphy.com/gifs/xT0xeJpnrWC4XWblEk/html5)
+![Alt Text](https://gph.is/2AmePHo)
