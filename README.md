@@ -7,7 +7,7 @@ chess timing app for the next generation.
 ## No More Restrictions.
 
 One of our main features is the functionality to have a timer displayed on two devices at the same time. This removes 
-the annoyance of having to use your non dominant hand to reach for the chess timer, and makes it much easier to simple enjoy the game.
+the annoyance of having to use your non dominant hand to reach for the chess timer, and makes it much easier to simply enjoy the game.
 
 When two devices load the app and are near each other, one player can choose the prefered settings and select "Pair with nearby device" 
 and a connection will immediately be established between the two devices.
